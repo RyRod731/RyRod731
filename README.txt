@@ -1,3 +1,3 @@
-I chose to create the Karting microgame over the FPS one is because I am not that into FPS games at all and karting games are kinda up my alley.
-The challenges that I faced in this microgame is placing obstacles and just the general importing of 3D objects.
-Though ther asset I found was one I made and it was just a simple block obstacle that I created in Maya.
+Lighting and sound was tricky to do with Unity still learning about how to use this develping tool but I will say sound is something I at least want to get better with.
+Though lighting I did have some issues at first with positioning and how to properly position the light but I soon found a decent place to put it.
+Matching sound was difficult at first but I was able to somehow make it work especially with the kart.
