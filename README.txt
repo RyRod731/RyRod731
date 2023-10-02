@@ -1,3 +1,2 @@
-Lighting and sound was tricky to do with Unity still learning about how to use this develping tool but I will say sound is something I at least want to get better with.
-Though lighting I did have some issues at first with positioning and how to properly position the light but I soon found a decent place to put it.
-Matching sound was difficult at first but I was able to somehow make it work especially with the kart.
+For VFX in the micro game challenge was not hard since all what needed to be added was the effects for the bowling pins and the checkpoints since those need flare to make the micro game exciting for most players. I felt those were important to add because they are the objectives and those take priority over anything the game has to offer. 
+There was challenge of how much particles to add and the speed and spawn of the effects but I managed to work things out with it.
