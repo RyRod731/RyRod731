@@ -1,2 +1,1 @@
-For VFX in the micro game challenge was not hard since all what needed to be added was the effects for the bowling pins and the checkpoints since those need flare to make the micro game exciting for most players. I felt those were important to add because they are the objectives and those take priority over anything the game has to offer. 
-There was challenge of how much particles to add and the speed and spawn of the effects but I managed to work things out with it.
+
